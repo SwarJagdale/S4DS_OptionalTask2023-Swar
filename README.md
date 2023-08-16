@@ -9,14 +9,14 @@
     There is a slight negative correlation (-0.111) between the number of reviews and the average review rating. This suggests a weak relationship where products with more reviews might have slightly lower average review ratings.
 
 ### The top 5 manufacturers with the most number of products are: 
-  LEGO
-  Disney
-  Oxford Diecast
-  Playmobil
-  Star Wars
+        LEGO
+        Disney
+        Oxford Diecast
+        Playmobil
+        Star Wars
 ### The top 5 categories present in the dataset are: 
-  Hobbies
-  Die-Cast & Toy Vehicles
-  Figures & Playsets
-  Characters & Brands
-  Games
+        Hobbies
+        Die-Cast & Toy Vehicles
+        Figures & Playsets
+        Characters & Brands
+        Games
