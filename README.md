@@ -20,3 +20,10 @@
         Figures & Playsets
         Characters & Brands
         Games
+
+### The 5 most expensive items present in the data set are:
+      Hornby 2014 Catalogue : 3.4
+      FunkyBuys® Large Christmas Holiday Express Festive Train Set (SI-TY1017) Toy Light / Sounds / Battery Operated & Smoke : 16.9
+      CLASSIC TOY TRAIN SET TRACK CARRIAGES LIGHT ENGINE BOXED BOYS KIDS BATTERY : 9.9
+      HORNBY Coach R4410A BR Hawksworth Corridor 3rd : 39.9
+      Hornby 00 Gauge 0-4-0 Gildenlow Salt Co. Steam Locomotive Model : 32.1
